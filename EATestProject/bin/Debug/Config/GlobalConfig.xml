@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EAAutoFramework>
+  <RunSettings>
+    <AUT>http://facebook.com/login</AUT>
+    <!-- Possible flag Chrome,Firefox, IE-->
+    <Browser>Firefox</Browser>
+    <!-- Possible flag Smoke, Regression, Unit  -->
+    <TestType>SmokeTest</TestType>
+    <!-- Possible Flag Y, N -->
+    <IsLog>Y</IsLog>
+    <LogPath>C:\Users\Titanium\Documents\UdemyCJ\EATestProject\EATestProjectEAAutoFramework\</LogPath>
+    <BuildName>DemoBuild</BuildName>
+    <!-- Possible Flag Y, N -->
+    <IsReport>N</IsReport>
+    <UserName>sh4dowjsantana@gmail.com</UserName>
+    <!-- Possible flag Selenium, Specflow  -->
+    <Technology>Selenium</Technology>
+  </RunSettings>
+</EAAutoFramework>
